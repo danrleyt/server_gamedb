@@ -1,0 +1,18 @@
+{
+  "name": "server_gamedb",
+  "version": "1.0.0",
+  "description": "back end server for gamedb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "*",
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*",
+    "multer": "^1.2.0"
+  },
+  "author": "Dan T.",
+  "license": "ISC"
+}
